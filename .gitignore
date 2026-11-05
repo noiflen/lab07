@@ -1,0 +1,29 @@
+# Результаты сборки Maven
+target/
+
+# Настройки IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи
+*.log
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+*~
+
+# Конфигурационные файлы IDE
+.vscode/
+*.code-workspace

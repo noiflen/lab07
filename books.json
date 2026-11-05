@@ -1,0 +1,17 @@
+[
+  {
+    "visitor": "Алексей Смирнов",
+    "book_title": "Мастер и Маргарита",
+    "publish_year": 1967
+  },
+  {
+    "visitor": "Мария Иванова",
+    "book_title": "1984",
+    "publish_year": 1949
+  },
+  {
+    "visitor": "Алексей Смирнов",
+    "book_title": "Война и мир",
+    "publish_year": 1869
+  }
+]
